@@ -19,5 +19,5 @@ Joe Gardener, Heyderdahl.com
 
 | Username        | Password           | Domain  |
 | ------------- |-------------| -----|
-| admin      | Password | [pterodactyl.reek.cc](pterodactyl.reek.cc) |
+| admin      | Password | [pterodactyl.reek.cc](https://pterodactyl.reek.cc) |
 | user      | Password    |
