@@ -37,4 +37,5 @@ Pterodactyl® is a free, open-source game server management panel built with PHP
 |       Domain  |
 |  -----|
 |[prometheus.reek.cc](https://prometheus.reek.cc) 
+
 The Prometheus monitoring system and time series database.
