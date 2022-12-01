@@ -17,11 +17,6 @@ Joe Gardener, Heyderdahl.com
 
 ---
 
-### Prometheus
-| Username        | Password           | Domain  |
-| ------------- |-------------| -----|
-| admin      | Password | [prometheus.reek.cc](https://prometheus.reek.cc) |
-| user      | Password    |
 
 
 ### Pterodactyl
