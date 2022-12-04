@@ -55,9 +55,9 @@ Pterodactyl® is a free, open-source game server management panel built with PHP
 
 Visit https://tailtemplate.com for more information. There are download links for all of the Templates. You can preview them right here!
 
-| <u>Template</u>: | <u>Link</u>:                          |
-| ---------------- | ------------------------------------- |
-| Motorlist        | [​​​​motorlist-staticmaker.reek.cc]() |
-| Foodbar          | [foodbar-staticmaker.reek.cc]()       |
+| <u>Template</u>: | <u>Link</u>:                                                               |
+| ---------------- | -------------------------------------------------------------------------- |
+| Motorlist        | [​​​​motorlist-staticmaker.reek.cc](https://motorlist-staticmaker.reek.cc) |
+| Foodbar          | [foodbar-staticmaker.reek.cc](https://foodbar-staticmaker.reek.cc)         |
 
 More coming soon...
