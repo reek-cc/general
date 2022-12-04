@@ -1,37 +1,63 @@
-# 😍 Kikder Dating Swipe App
+﻿# Reek - your personal preview
 
-Kik App, you know..? Kikder™ is a **dating webapp** that integrates **the Kik** (from [Kik Messenger](https://en.wikipedia.org/wiki/Kik_Messenger)), **uses the HotOrNot game** ❤️‍🔥 and **the Tinder swipe** 🃏
+**What's reek?**
+Have you ever tried installing a program without first seeing how it will turn out? With that, we want to assist! putting websites and applications on our servers so you can test them out before deciding whether to install them.
 
-Kikder uses a custom PHP lightweight MVC framework as well.
+---
 
-A great, simple, and open source web app to date and communicate very easy with anyone!
+> Reek is helping me a lot when I need inspiration.
 
+Joe Gardener, Heyderdahl.com
 
-## Requirements
+---
 
-* **Server** PHP 5.4 or newer
+# Finished Reeks:
 
-* **Database** MySQL/MariaDB 5.0.3 or newer
+#### Software:
 
+* [Pterodactyl Panel](#pterodactyl) 
+* [Prometheus](#prometheus)
 
-## Installation
+#### Websites:
 
-Have a look to `installation - instruction.txt` file to know step-by-step how to set it up.
+- [Tailwind CSS](#Tailwind)
 
-
-## Ambitious Dating Business?
-
-If you are looking for a turnkey solution, a more powerful dating builder... I can advise you to look for [pH7CMS App Builder](https://github.com/pH7Software/pH7-Social-Dating-CMS).
-
-
-## Contact Me?
-
-Feel free to give me a shout at 📮 *hi `AT` ph7 `D0T` me* 😊
 
 
 ---
 
+# <u>Software</u>
 
-![Homepage Kik Tinder Clone, Swipe Profiles](screenshots/kikornot.png)
+### Pterodactyl:
 
-![Homepage HotOrNot Clone - Profile Swipes](screenshots/kikornot-part2.png)
+| User:         | <u>Username</u>: | <u>Password</u>: | <u>Domain</u>:                                     |
+| ------------- | ---------------- | ---------------- | -------------------------------------------------- |
+| Administrator | **admin**        | **Password**     | [pterodactyl.reek.cc](https://pterodactyl.reek.cc) |
+| Normal User   | **user**         | **Password**     |                                                    |
+
+Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
+
+### Prometheus:
+
+| User: | <u>Username</u>: | <u>Password</u>: | <u>Domain</u>:                                   |
+| ----- | ---------------- | ---------------- | ------------------------------------------------ |
+| N.N   | N.N              | N.N              | [prometheus.reek.cc](https://prometheus.reek.cc) |
+
+---
+
+# <u>Websites</u>
+
+## Tailwind CSS:
+
+- [Staticmaker](#staticmaker)
+
+### Staticmaker:
+
+Visit https://tailtemplate.com for more information. There are download links for all of the Templates. You can preview them right here!
+
+| <u>Template</u>: | <u>Link</u>:                          |
+| ---------------- | ------------------------------------- |
+| Motorlist        | [​​​​motorlist-staticmaker.reek.cc]() |
+| Foodbar          | [foodbar-staticmaker.reek.cc]()       |
+
+More coming soon...
