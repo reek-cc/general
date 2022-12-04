@@ -20,7 +20,7 @@ Joe Gardener, Heyderdahl.com
 
 #### Websites:
 
-- [Tailwind CSS](#Tailwindcss)
+- [Tailwind CSS](#Tailwind-css)
 
 
 
@@ -47,7 +47,7 @@ Pterodactyl® is a free, open-source game server management panel built with PHP
 
 # <u>Websites</u>
 
-## Tailwind CSS:
+## Tailwind-CSS:
 
 - [Staticmaker](#staticmaker)
 
