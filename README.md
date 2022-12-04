@@ -1,36 +1,37 @@
-# Reek - your personal preview
-**What's reek?**
-Have you ever tried installing a program without first seeing how it will turn out? With that, we want to assist! putting websites and applications on our servers so you can test them out before deciding whether to install them.
+# 😍 Kikder Dating Swipe App
+
+Kik App, you know..? Kikder™ is a **dating webapp** that integrates **the Kik** (from [Kik Messenger](https://en.wikipedia.org/wiki/Kik_Messenger)), **uses the HotOrNot game** ❤️‍🔥 and **the Tinder swipe** 🃏
+
+Kikder uses a custom PHP lightweight MVC framework as well.
+
+A great, simple, and open source web app to date and communicate very easy with anyone!
+
+
+## Requirements
+
+* **Server** PHP 5.4 or newer
+
+* **Database** MySQL/MariaDB 5.0.3 or newer
+
+
+## Installation
+
+Have a look to `installation - instruction.txt` file to know step-by-step how to set it up.
+
+
+## Ambitious Dating Business?
+
+If you are looking for a turnkey solution, a more powerful dating builder... I can advise you to look for [pH7CMS App Builder](https://github.com/pH7Software/pH7-Social-Dating-CMS).
+
+
+## Contact Me?
+
+Feel free to give me a shout at 📮 *hi `AT` ph7 `D0T` me* 😊
+
 
 ---
-> Reek is helping me a lot when I need inspiration.
-
-Joe Gardener, Heyderdahl.com
-
----
-# Finished Reeks:
 
 
-* [Pterodactyl Panel](#pterodactyl) 
-*  [Prometheus](#prometheus)
+![Homepage Kik Tinder Clone, Swipe Profiles](screenshots/kikornot.png)
 
-
----
-
-
-
-### Pterodactyl
-
-| Username        | Password           | Domain  |
-| ------------- |-------------| -----|
-| admin      | Password | [pterodactyl.reek.cc](https://pterodactyl.reek.cc) |
-| user      | Password    |
-
-Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.
-
-### Prometheus
-|       Domain  |
-|  -----|
-|[prometheus.reek.cc](https://prometheus.reek.cc) 
-
-The Prometheus monitoring system and time series database.
+![Homepage HotOrNot Clone - Profile Swipes](screenshots/kikornot-part2.png)
